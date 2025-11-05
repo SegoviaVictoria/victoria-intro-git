@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Voy a generar un punetero conflicto, a que si!
+=======
+Hola, se podria generar un conflicto ? .
+>>>>>>> feature-victoria
